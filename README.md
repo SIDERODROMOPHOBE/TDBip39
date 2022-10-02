@@ -18,3 +18,4 @@ Generate_Seed() can find the Bip39 Mnemo words form a wanted entropy, or can gen
 Import_Seed() take seed words in parameter, and returns the binary and the integer entropy that permits to generate this chain of words
 Import_Seed() is bugged and doesnt work properly :'-(
 
+Bip39 words are imported via BUP39words.txt wich is a txt files ontaining the bip39 mnemo words in order. it is necessary to have it in the repository
